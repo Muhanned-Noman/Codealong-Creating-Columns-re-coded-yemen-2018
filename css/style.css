@@ -121,6 +121,9 @@ section{
   padding: 20px;
 }
 /* Social */
+header {
+  
+}
 #social{
   position: fixed;
   top: 200px;
